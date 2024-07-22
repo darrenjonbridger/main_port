@@ -1,7 +1,7 @@
 # -------------------
 # Jekyll Config
 # --------------------
-baseurl: ""
+baseurl: "/darrenjonbridger/main_port "
 url: ""
 permalink: pretty
 markdown: kramdown
